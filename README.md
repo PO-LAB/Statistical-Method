@@ -37,4 +37,5 @@ http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=1&c
 |  2017-09-22     | [Chapter 1](http://rpubs.com/new393988911/ch1)   | 
 |  2017-09-28     | [Chapter 2](http://rpubs.com/new393988911/ch2)   | 
 |  2017-09-28     | [Chapter 3](http://rpubs.com/new393988911/ch3)   | 
+|  2017-09-28     | [Chapter 4](http://rpubs.com/new393988911/ch4)   | 
 --------------------------------------------------------------------------------------------------------------------------------
