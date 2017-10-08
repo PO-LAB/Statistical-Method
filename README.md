@@ -43,8 +43,8 @@ http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=1&c
    
 |  更新時間       |                      文章                                                                               |
 |  :-----------:  | :-----------------------------------------------------------------------------------------------------: |
-|  2017-09-22     | [Chapter 1](http://rpubs.com/new393988911/ch1)   | 
-|  2017-09-28     | [Chapter 2](http://rpubs.com/new393988911/ch2)   | 
-|  2017-09-28     | [Chapter 3](http://rpubs.com/new393988911/ch3)   | 
-|  2017-09-28     | [Chapter 4](http://rpubs.com/new393988911/ch4)   | 
+|  2017-09-22     | [Chapter 1 What is Statistics? 何謂統計學?](http://rpubs.com/new393988911/ch1)   | 
+|  2017-09-28     | [Chapter 2 Graphical Descriptive Techniques I 圖表敘述法I](http://rpubs.com/new393988911/ch2)   | 
+|  2017-09-28     | [Chapter 3 Graphical Descriptive Techniques II 圖表敘述法II](http://rpubs.com/new393988911/ch3)   | 
+|  2017-09-28     | [Chapter 4 Numerical Descriptive Techniques 數值敘述法](http://rpubs.com/new393988911/ch4)   | 
 --------------------------------------------------------------------------------------------------------------------------------
