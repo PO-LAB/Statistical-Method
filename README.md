@@ -27,6 +27,15 @@ http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=1&c
 |  2017-05-19     | [安裝R與RStudio](https://po-lab.github.io/Data-Mining/Source-File/安裝R與RStudio/安裝R與RStudio.html)   | 
 
 
+
+## **￡基本觀念 & 語法**   
+
+|  更新時間       |                      文章                                                                                             |
+| :-----------:   |:-----------------------------------------------------------------------------------------------------:                |
+|  2017-05-19     | [基本資料型態](https://po-lab.github.io/Data-Mining/Source-File/基本資料型態/基本資料型態.html)                       | 
+|  2017-05-19     | [套件與函式](https://po-lab.github.io/Data-Mining/Source-File/套件與函式/套件與函式.html)                             | 
+|  2017-05-19     | [流程控制(for, while, ifelse, switch)](https://po-lab.github.io/Data-Mining/Source-File/流程控制/流程控制.html)       | 
+
     
 --------------------------------------------------------------------------------------------------------------------------------
 
