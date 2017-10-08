@@ -58,7 +58,7 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-### 其他資源
+## ￡其他資源
 - [R1-安裝與基本操作說明 ](https://luntsai.github.io/R/R1-安裝與基本操作說明%20.html)
 - [R2-基本資料型態](https://luntsai.github.io/R/R2-%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B.html)
 - [R3-常用資料處裡手法](https://luntsai.github.io/R/R3-常用資料處裡手法.html)
