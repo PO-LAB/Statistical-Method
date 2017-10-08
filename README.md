@@ -1,5 +1,5 @@
 
-# Statistica-Method
+# Statistical-Method
 
 成功大學在職專班的統計方法，李家岩老師授課
 
