@@ -9,7 +9,9 @@ http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=1&c
 The Github page is used for recitation class- to learn Statistics using R package.
 
 本課程使用以下的教科書 The couse follows the textbook as follows.
+
 教科書：統計學-管理與經濟 (Gerald Keller著，呂金河 審閱，顏慧、丁淑方 譯，出版社 滄海書局)
+
 Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th Edition, Cengage Learning.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
