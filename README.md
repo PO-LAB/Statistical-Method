@@ -23,6 +23,7 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
 |:---------: | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
 | 2017       | 洪佑鑫       | Jeff      |s903941@yahoo.com.tw| 
 | 2017       | 吳昭賢       | James     |new393988911@gmail.com|
+| 2016       | 蔡宗倫       | Lun       |jkbon49027@yahoo.com.tw|
          
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -55,3 +56,11 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
 |  2017-09-28     | [Chapter 3 Graphical Descriptive Techniques II 圖表敘述法II](http://rpubs.com/new393988911/ch3)   | 
 |  2017-09-28     | [Chapter 4 Numerical Descriptive Techniques 數值敘述法](http://rpubs.com/new393988911/ch4)   | 
 --------------------------------------------------------------------------------------------------------------------------------
+
+
+### 其他資源
+- [R1-安裝與基本操作說明 ](https://luntsai.github.io/R/R1-安裝與基本操作說明%20.html)
+- [R2-基本資料型態](https://luntsai.github.io/R/R2-%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B.html)
+- [R3-常用資料處裡手法](https://luntsai.github.io/R/R3-常用資料處裡手法.html)
+- [R4-資料視覺化](https://luntsai.github.io/R/Ch4-資料視覺化.html)
+
