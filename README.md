@@ -57,6 +57,7 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
 |  2017-09-28     | [Chapter 4 Numerical Descriptive Techniques 數值敘述法](http://rpubs.com/new393988911/ch4)   | 
 |  2017-10-21     | [Chapter 5 About Data 資料收集](http://rpubs.com/new393988911/ch5)   | 
 |  2017-10-21     | [Chapter 7 Discrete distribution 離散型分配](http://rpubs.com/new393988911/ch7)   | 
+|  2017-10-28     | [Chapter 8 Continuous distribution 離散型分配](http://rpubs.com/new393988911/ch8)   | 
 --------------------------------------------------------------------------------------------------------------------------------
 
 
