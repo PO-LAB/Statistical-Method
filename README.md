@@ -51,13 +51,13 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
    
 |  更新時間       |                      文章                                                                               |
 |  :-----------:  | :-----------------------------------------------------------------------------------------------------: |
-|  2017-09-22     | [Chapter 1 What is Statistics? 何謂統計學?](http://rpubs.com/new393988911/ch1)   | 
-|  2017-09-28     | [Chapter 2 Graphical Descriptive Techniques I 圖表敘述法I](http://rpubs.com/new393988911/ch2)   | 
-|  2017-09-28     | [Chapter 3 Graphical Descriptive Techniques II 圖表敘述法II](http://rpubs.com/new393988911/ch3)   | 
-|  2017-09-28     | [Chapter 4 Numerical Descriptive Techniques 數值敘述法](http://rpubs.com/new393988911/ch4)   | 
-|  2017-10-21     | [Chapter 5 About Data 資料收集](http://rpubs.com/new393988911/ch5)   | 
-|  2017-10-21     | [Chapter 7 Discrete distribution 離散型分配](http://rpubs.com/new393988911/ch7)   | 
-|  2017-10-28     | [Chapter 8 Continuous distribution 連續型分配](http://rpubs.com/new393988911/ch8)   | 
+|  2017-09-22     | [Chapter 1 Introduction to Statistics? 統計學簡介](http://rpubs.com/new393988911/ch1)   | 
+|  2017-09-28     | [Chapter 2 Descriptive Statistics and Graph I 統計圖表I](http://rpubs.com/new393988911/ch2)   | 
+|  2017-09-28     | [Chapter 3 Descriptive Statistics and Graph II 統計圖表II](http://rpubs.com/new393988911/ch3)   | 
+|  2017-09-28     | [Chapter 4 Numerical Descriptive Techniques 敘述統計量](http://rpubs.com/new393988911/ch4)   | 
+|  2017-10-21     | [Chapter 5 Data Collection 資料收集](http://rpubs.com/new393988911/ch5)   | 
+|  2017-10-21     | [Chapter 7 Discrete Probability Distribution 離散機率分配](http://rpubs.com/new393988911/ch7)   | 
+|  2017-10-28     | [Chapter 8 Continuous Probability Distribution 連續機率分配](http://rpubs.com/new393988911/ch8)   | 
 |  2017-11-12     | [Chapter 9 Central Limit Theorem 中央極限定理](http://rpubs.com/new393988911/ch9)   | 
 --------------------------------------------------------------------------------------------------------------------------------
 
