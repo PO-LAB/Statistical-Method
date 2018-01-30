@@ -59,6 +59,8 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
 |  2017-10-21     | [Chapter 7 Discrete Probability Distribution 離散機率分配](http://rpubs.com/james_datacatcher/ch7)   | 
 |  2017-10-28     | [Chapter 8 Continuous Probability Distribution 連續機率分配](http://rpubs.com/james_datacatcher/ch8)   | 
 |  2017-11-12     | [Chapter 9 Central Limit Theorem 中央極限定理](http://rpubs.com/james_datacatcher/ch9)   | 
+|  2018-01-30     | [Chapter 10 Confidence Interval 信賴區間](http://rpubs.com/james_datacatcher/ch10)   | 
+|  2018-01-30     | [Chapter 11 Hypothesis Testing 假設檢定](http://rpubs.com/james_datacatcher/ch11)   | 
 --------------------------------------------------------------------------------------------------------------------------------
 
 
