@@ -21,9 +21,9 @@ Textbook: Keller, Gerald (2014). Statistics for Management and Economics. 10th E
 
 | 擔任年份    |  助教        |    暱稱         |         LinkedIn                           | E-mail |
 |:---------: | :----------:|:---------------:|:-----------:     |:---------------------------------------------------------------------------------------:|
-| 2017       | 洪佑鑫       | [Jeff][3]       | https://www.linkedin.com/in/hungyuhsin/           | s903941@yahoo.com.tw |
-| 2017       | 吳昭賢       | [James][2]      | https://www.linkedin.com/in/iamjameswu/           | new393988911@gmail.com |
-| 2016       | 蔡宗倫       | [Lun][1]        | https://www.linkedin.com/in/lun-tsai-0b6986119/   | jkbon49027@yahoo.com.tw |
+| 2017       | 洪佑鑫       | Jeff            | https://www.linkedin.com/in/hungyuhsin/           | s903941@yahoo.com.tw |
+| 2017       | 吳昭賢       | James           | https://www.linkedin.com/in/iamjameswu/           | new393988911@gmail.com |
+| 2016       | 蔡宗倫       | Lun             | https://www.linkedin.com/in/lun-tsai-0b6986119/   | jkbon49027@yahoo.com.tw |
          
 
 --------------------------------------------------------------------------------------------------------------------------------
